@@ -1,0 +1,103 @@
+body {
+	position: absolute;
+	left: 10%;
+	background-image: url("wallpaper.png");
+}
+
+p {
+	text-align: justify;
+}
+
+a {
+	color: white;
+}
+
+#title1 {
+	font-size: 50px;
+	position: relative;
+	left: 10%;
+}
+
+#title2 {
+	position: relative;
+	left: 10%;
+	bottom: 10%;
+}
+
+#title3 {
+	font-size: 30px;
+	position: relative;
+	left: 65%;
+}
+
+#title4 {
+	position: relative;
+	left: 65%;
+}
+
+#table {
+	width: 90%;
+}
+
+#logo {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+}
+
+#tableHeader {
+	width: 90%;
+	background-color: rgb(13,155,243);
+	color: white;
+}
+
+#subtitle {
+	font-size: 25px;
+	text-align: left;
+}
+
+#image1 {
+	width: 100%;
+}
+
+#image2 {
+	height: 50%;
+	width: 100%;
+}
+
+
+#image3 {
+	height: 30%;
+	width: 80%;
+}
+
+#image1text {
+	font-size: 20px;
+}
+
+#tdblue {
+	background-color: rgb(0,204,255);
+	color: white;
+}
+
+#tdgray {
+	background-color: rgb(160,158,158);
+}
+
+#tdlight {
+	background-color: rgb(219,219,219);
+}
+
+#imageFloat {
+	float: right;
+	height: 70px;
+	width: 150px;
+}
+
+#buttonMore {
+	color: white;
+	font-weight: bold;
+	background-color: rgb(13,155,243);
+	position: inherit;
+}
+Bi
